@@ -1,21 +1,34 @@
-# Desconto Progressivo
+# 🛒 Desconto Progressivo
 
-Sistema de desconto progressivo para loja online, desenvolvido em Python.
+![Python](https://img.shields.io/badge/Python-3.x-green)
+![License](https://img.shields.io/badge/License-Educational-blue)
 
-## Descrição
+---
 
-Este programa aplica descontos de acordo com o valor total da compra, seguindo as regras:
+## 📌 Sobre
 
-- **Compra < R$ 200,00**: desconto de **5%**
-- **R$ 200,00 ≤ compra < R$ 300,00**: desconto de **10%**
-- **Compra ≥ R$ 300,00**: desconto de **15%**
+Sistema de desconto progressivo para loja online, desenvolvido em Python como atividade prática.
+
+---
+
+## 📝 Descrição
+
+O programa aplica descontos de acordo com o valor total da compra, seguindo as regras:
+
+| Valor da Compra          | Desconto |
+|--------------------------|----------|
+| < R$ 200,00              | 5%       |
+| ≥ R$ 200,00 e < R$ 300,00| 10%      |
+| ≥ R$ 300,00              | 15%      |
 
 O programa solicita o valor da compra, calcula o desconto aplicavel e exibe:
-- Valor original da compra
-- Valor do desconto aplicado
-- Valor final a ser pago
+- 💰 Valor original da compra
+- 🏷️ Valor do desconto aplicado
+- ✅ Valor final a ser pago
 
-## Como executar
+---
+
+## 🚀 Como Executar
 
 1. Certifique-se de ter o Python instalado (versao 3.x recomendada).
 2. Clone este repositorio:
@@ -29,26 +42,22 @@ O programa solicita o valor da compra, calcula o desconto aplicavel e exibe:
    ```
 4. Digite o valor da compra quando solicitado.
 
-## Exemplo de uso
+---
 
-```
-Digite o valor da compra:
--> 250
-VALOR DA COMPRA: R$250.00
-DESCONTO: R$25.00
-VALOR FINAL: R$225.00
-```
+## 💻 Tecnologias Utilizadas
 
-## Tecnologias utilizadas
+- ![Python](https://img.shields.io/badge/Python-3.x-blue)
 
-- Python 3.x
+---
 
-## Autor
+## 👤 Autor
 
 - **Leonardo Moreira Prada**
-- Desenvolvedor de Software
-- Mogi das Cruzes, São Paulo, BR
+- 💼 Desenvolvedor de Software
+- 📍 Mogi das Cruzes, São Paulo, BR
 
-## Licenca
+---
+
+## 📄 Licenca
 
 Este projeto foi desenvolvido para fins educacionais.
