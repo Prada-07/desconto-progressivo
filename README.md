@@ -14,7 +14,7 @@
 
 O **Sistema de Desconto Progressivo** foi desenvolvido para aplicar descontos de acordo com o valor total da compra. O programa solicita o valor da compra e calcula automaticamente o desconto aplicavel, exibindo o valor original, o valor descontado e o valor final a ser pago.
 
-O projeto foi criado para praticar entrada de dados, estrutura condicional (if/elif/else), operações matemá¡¹­ticas e exibiç¡¹­o de resultados em Python. 🐍
+O projeto foi criado para praticar entrada de dados, estrutura condicional (if/elif/else), operações matemá­ticas e exibiçã­o de resultados em Python. 🐍
 
 ## 🎯 Objetivo do sistema
 
@@ -55,9 +55,9 @@ Onde:
 - Ter o [Python](https://www.python.org/downloads/) 3.x instalado.
 - Ter acesso a um terminal ou ao Visual Studio Code.
 
-### Execuç¡¹­o pelo terminal
+### Execuçã­o pelo terminal
 
-1. Clone o repositó¡¹³io:
+1. Clone o repositório:
 
 ```bash
 git clone https://github.com/Prada-07/desconto-progressivo.git
@@ -92,12 +92,12 @@ VALOR FINAL: R$225.00
 ```text
 desconto-progressivo/
 ├── desconto_progressivo.py   # Código principal do sistema de desconto
-└── README.md                 # Documentaç¡¹­o do projeto
+└── README.md                 # Documentaçã­o do projeto
 ```
 
-## ℹ️ Observaç¡¹­o
+## ℹ️ Observação
 
-O programa aceita apenas valores numé¡¹­ricos. Caso o usuário informe um valor invá¡¹­lido, o sistema exibe uma mensagem de erro e encerra a execuç¡¹­o.
+O programa aceita apenas valores numé­ricos. Caso o usuário informe um valor inválido, o sistema exibe uma mensagem de erro e encerra a execuçã­o.
 
 ## 👤 Autor
 
